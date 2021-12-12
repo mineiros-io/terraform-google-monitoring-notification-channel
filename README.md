@@ -3,7 +3,7 @@
 [![Build Status](https://github.com/mineiros-io/terraform-module-template/workflows/Tests/badge.svg)](https://github.com/mineiros-io/terraform-module-template/actions)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/mineiros-io/terraform-module-template.svg?label=latest&sort=semver)](https://github.com/mineiros-io/terraform-module-template/releases)
 [![Terraform Version](https://img.shields.io/badge/Terraform-1.x-623CE4.svg?logo=terraform)](https://github.com/hashicorp/terraform/releases)
-[![AWS Provider Version](https://img.shields.io/badge/AWS-3-F8991D.svg?logo=terraform)](https://github.com/terraform-providers/terraform-provider-aws/releases)
+[![AWS Provider Version](https://img.shields.io/badge/AWS-3-F8991D.svg?logo=terraform)](htts://github.com/terraform-providers/terraform-provider-aws/releases)
 [![Join Slack](https://img.shields.io/badge/slack-@mineiros--community-f32752.svg?logo=slack)](https://mineiros.io/slack)
 
 # terraform-module-template
